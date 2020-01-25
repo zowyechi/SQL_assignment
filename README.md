@@ -1,2 +1,2 @@
-# SQL_assignment
+# SQL Assignments
 Showcase basic SQL statements
