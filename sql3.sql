@@ -62,5 +62,3 @@ ON stations.name=trips.start_station
 GROUP BY 1, 2
 ORDER BY 2 DESC
 
-
---(Challenge) What's the length of the longest trip for each day it rains anywhere?
